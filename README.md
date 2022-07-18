@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelbar
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently studying at CodeNation
 
 
 <!---
