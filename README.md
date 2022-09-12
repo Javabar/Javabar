@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelbar
 - 👀 I’m interested in gaming
-- 🌱 I’m currently studying at CodeNation
+- 🌱 I’m currently looking for a graduate software developer position 
 
 
 <!---
